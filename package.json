@@ -1,0 +1,22 @@
+{
+  "name": "pfoa-csenamac",
+  "version": "1.0.0",
+  "description": "Proyecto final automatizacion de pruebas de software - agosto 2022",
+  "main": "index.js",
+  "scripts": {
+    "report": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chsenamac/PFOA-CSENAMAC.git"
+  },
+  "author": "Christiams Sena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chsenamac/PFOA-CSENAMAC/issues"
+  },
+  "homepage": "https://github.com/chsenamac/PFOA-CSENAMAC#readme",
+  "devDependencies": {
+    "multiple-cucumber-html-reporter": "^1.21.6"
+  }
+}
